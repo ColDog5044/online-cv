@@ -14,7 +14,7 @@ resume_name: "Collin Laney"
 resume_title: "IT Systems Support Analyst II"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: ""
+resume_contact_email: "contact@coldogstudios.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: "555-555-5555"
@@ -23,7 +23,7 @@ resume_contact_address: "5044 ColDog Way, Michigan"
 resume_header_contact_info: "5044 ColDog Way, Michigan • 555-555-5555 • collinlaney.m@example.com"
 display_header_contact_info: "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Cybersecurity and Computer Network professional with a strong foundation in technology. Passionate about securing and managing networks. Skilled in networking concepts, protocols, and security best practices. Quick learner with a proven ability to adapt to new technologies. Eager to contribute to organizational success and advance expertise in cybersecurity and computer networking.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,18 +40,18 @@ resume_section_skills: true
 resume_section_recognition: false
 resume_section_links: true
 resume_section_associations: false
-# resume_section_interests:       true
+# resume_section_interests: true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-    resume_github_url: "https://github.com/jglovier/resume-template"
-    resume_twitter_url: "http://twitter.com/jglovier"
-    #resume_dribbble_url: "https://dribbble.com/jag"
-    # resume_facebook_url:          "insert Facebook URL here"
-    resume_linkedin_url: "https://www.linkedin.com/in/joelglovier"
-    # resume_instagram_url:         "insert your Instagram URL here"
+    resume_linkedin_url: "https://www.linkedin.com/in/collin-line"
+    resume_github_url: "https://github.com/ColDog5044"
+    resume_twitter_url: "http://twitter.com/ColDog5044"
     resume_website_url: "https://collinlaney.me"
+    #resume_dribbble_url: "https://dribbble.com/jag"
+    #resume_facebook_url: "insert Facebook URL here"
+    #resume_instagram_url: "insert your Instagram URL here"
     #resume_medium_url: "https://medium.com/@jglovier"
 resume_print_social_links: true
 

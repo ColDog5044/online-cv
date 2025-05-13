@@ -1,0 +1,42 @@
+# Degree
+- degree: Associate of Applied Science, Cybersecurity
+  uni: Jackson College
+  year: 2023 &mdash; 2024
+  activities:
+      - activity: Collegiate Cyber Defense Competition (CCDC)
+      - activity: Jazz Band
+      - activity: Community Concert Band
+  #awards:
+  #    - award: Summa Cumme Laude graduate
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Associate of Applied Science, Network Specialist
+  uni: Jackson College
+  year: 2023 &mdash; 2024
+  activities:
+      - activity: Collegiate Cyber Defense Competition (CCDC)
+      - activity: Jazz Band
+      - activity: Community Concert Band
+
+- degree: Cybersecurity Certificate
+  uni: Hillsdale Area Career Center
+  year: Aug 2021 &mdash; May 2023
+  award: Student of the Month
+  activities:
+      - activity: National Technical Honor Society
+      - activity: CyberPatriot Team
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: High School Diploma
+  uni: Jonesville High School
+  year: Sep 2010 &mdash; May 2023
+  activities:
+      - activity: National Honor Society
+      - activity: Student Council - Class Representative
+      - activity: Marching Band
+      - activity: Symphony Band
+      - activity: Jazz Band
+      - activity: Varsity Golf
+      - activity: Cross Country
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards

@@ -74,12 +74,14 @@
 					<p class="resume-item-copy" itemprop="description"></p>
 
 					<ul class="resume-item-list">
+						<p>Awards:</p>
 						{% for award in education.awards %}
 						<li>{{ award.award }}</li>
 						{% endfor %}
 					</ul>
 
 					<ul class="resume-item-list">
+						<p>Activities:</p>
 						{% for activity in education.activities %}
 						<li>{{ activity.activity }}</li>
 						{% endfor %}

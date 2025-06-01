@@ -1,12 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-#- organization: PETA
-#  role: Volunteer
-#  year: 2001 &mdash; 2010
-#  url: https://www.peta.org/
-#  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
+- organization: Countryside Bible Church
+  role: Volunteer Media Systems Operator
+  year: May 2025 &mdash; Present
+  url: https://www.cbcjonesville.org/
+  summary: <ul><li>Operate and manage slide projection for live worship</li><li>Display announcement slideshow during service intermissions</li><li>Monitor projection output across multiple display zones (sanctuary, overflow)</li><li>Record sermons for archival and online distribution</li><li>Ensure proper audio feed routing to overflow room and recording system</li><li>Troubleshoot A/V issues under time-sensitive conditions</li></ul>
 #- organization: Yale Amnesty International
 #  role: Communications coordinator
 #  year: 2002 &mdash; 2004

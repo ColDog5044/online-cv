@@ -10,19 +10,22 @@
 - company: County of Hillsdale
   position: Systems Support Analyst II
   duration: Mar, 2025 &mdash; Present
-  summary: Redacted for security
+  #summary:
 
 # IT Systems and Support Specialist
 - company: QPCTech
   position: IT Systems and Support Specialist
   duration: Jan, 2024 &mdash; Mar, 2025
+  #summary:
 
 # IT Systems Analyst
 - company: Willis Information Technologies
   position: IT Systems Analyst
   duration: Jun, 2023 &mdash; Jan, 2024
+  #summary:
 
 # Intern Technician
 - company: Quality PC & Repair
   position: Intern Technician
   duration: May, 2022
+  #summary:

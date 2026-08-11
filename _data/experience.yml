@@ -1,31 +1,48 @@
 # Jobs
 
-# VP of Global Communications
-#- company: Springfield International Human Rights Outreach
-#  position: VP of Global Communications
-#  duration: Oct, 2013 &mdash; Present
-#summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Cyber Security Analyst
+- company: County of Hillsdale
+  position: Cyber Security Analyst
+  duration: June 2026 &mdash; Present
+  summary: Serve as the primary cybersecurity resource for the organization, supporting incident response, security architecture, control improvements, risk reduction, and technology evaluation. Lead and contribute to security initiatives focused on stronger authentication, improved monitoring and visibility, infrastructure hardening, and consolidation of overlapping security capabilities to simplify operations and reduce costs.
 
 # Systems Support Analyst II
 - company: County of Hillsdale
   position: Systems Support Analyst II
-  duration: Mar, 2025 &mdash; Present
-  #summary:
+  duration: March 2025 &mdash; June 2026
+  summary: Provided systems administration and technical support across endpoints, applications, identity services, and infrastructure while progressively taking on greater cybersecurity responsibilities. Led a major email and cloud productivity modernization project, implemented security hardening, supported security monitoring and phishing investigations, and improved consistency through automation. This expanded security involvement ultimately led to promotion into a dedicated cybersecurity role.
 
 # IT Systems and Support Specialist
 - company: QPCTech
   position: IT Systems and Support Specialist
-  duration: Jan, 2024 &mdash; Mar, 2025
-  #summary:
+  duration: January 2024 &mdash; March 2025
+  summary: Supported multiple client environments across systems administration, endpoint security, identity, cloud services, and technical support. Investigated and remediated security incidents, monitored for suspicious activity, improved detection and monitoring capabilities, and helped strengthen access controls and security configurations across customer environments.
 
 # IT Systems Analyst
 - company: Willis Information Technologies
   position: IT Systems Analyst
-  duration: Jun, 2023 &mdash; Jan, 2024
-  #summary:
+  duration: June 2023 &mdash; January 2024
+  summary: Supported and maintained business IT environments including workstations, networks, communications systems, and Windows and Linux systems. Responsibilities included system hardening, vulnerability remediation, patch verification, troubleshooting, and maintaining reliable day-to-day infrastructure for business users.
+
+# Security Lab/Homelab
+- company: ColDog Studios
+  position: Homelab Systems & Security Administrator
+  duration: June 2022 &mdash; Present
+  summary: Design and maintain a virtualized cybersecurity and infrastructure lab used to develop hands-on experience with security monitoring, identity and access management, authentication, network segmentation, systems administration, and defensive security concepts. The environment serves as a platform for testing security controls, evaluating new approaches, and developing practical skills outside of production systems.
+
+# Collegiate Cyber Defense Competition (CCDC)
+- company: Jackson College
+  position: CCDC Team Member
+  duration: November 2023 &mdash; March 2024
+  summary: Participated in collegiate defensive security competitions involving the protection of Windows and Linux systems during active attack scenarios. Responsibilities included maintaining required services, investigating malicious activity, remediating vulnerabilities, hardening systems, and documenting incidents while operating under time constraints.
+
+# CyberPatriot Competition
+- company: Hillsdale Area Career Center
+  position: CyberPatriot Team Member
+  duration: September 2021 &mdash; December 2022
+  summary: Participated in cybersecurity competitions focused on Windows and Linux system hardening, vulnerability identification and remediation, secure configuration, and forensic analysis. The competition provided early hands-on experience applying defensive security concepts in structured technical scenarios.
 
 # Intern Technician
 - company: Quality PC & Repair
   position: Intern Technician
-  duration: May, 2022
-  #summary:
+  duration: May 2022

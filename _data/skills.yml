@@ -1,12 +1,25 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Security Operations
+  description: SIEM, EDR/XDR, Alert Triage, Incident Investigation, Log Analysis, Phishing Analysis, Incident Response
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Security Engineering
+  description: Hardening, MFA, Vulnerability Management, Endpoint & Identity Security
+
+- skill: Security Tools
+  description: Wazuh, Splunk, Elastic, Security Onion, Huntress, Sophos, CrowdStrike, Rapid7
+
+- skill: Systems & IAM
+  description: Windows, Linux, macOS, Active Directory, Entra ID, Intune, Microsoft 365
+
+- skill: Networking
+  description: LAN/WAN, VPN, DNS, Firewalls, Segmentation, SNMPv3
+
+- skill: Cloud & Virtualization
+  description: Azure, AWS, Proxmox, ESXi, vCenter, Hyper-V
+
+- skill: Scripting & Automation
+  description: PowerShell, Bash, Batch, Python, Task Scheduler, Cron Jobs
+
+- skill: Frameworks
+  description: MITRE ATT&CK, CIS Controls, Cyber Kill Chain, Pyramid of Pain, OWASP Top 10
